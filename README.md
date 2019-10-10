@@ -4,6 +4,6 @@
 
 ## Asistentes
 
-- [Norman Perrin](https://github.com/normanperrin).
+- [Angie Díaz Swaczuk](https://github.com/swaczuk).
 - [Mercedes Avendaño](https://github.com/mercedesaven).
-
+- [Norman Perrin](https://github.com/normanperrin).
