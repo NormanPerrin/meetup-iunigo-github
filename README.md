@@ -7,6 +7,7 @@
 - [Angie Díaz Swaczuk](https://github.com/swaczuk).
 - [Mercedes Avendaño](https://github.com/mercedesaven).
 - [Norman Perrin](https://github.com/normanperrin).
+- [Malena Lucero](https://github.com/MalenaLucero).
 - [Juliana Moriones](https://github.com/julimoriones).
 - [Wilhelm Siso](https://github.com/wilcho-vnz).
 - [Sofía De San Vito](https://github.com/sofiadesanvito).
