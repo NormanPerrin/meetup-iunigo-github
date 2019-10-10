@@ -5,6 +5,7 @@
 ## Asistentes
 
 - [Angie Díaz Swaczuk](https://github.com/swaczuk).
+- [Cecilia](https://github.com/cenrich).
 - [Cristina Gomez](https://github.com/cristigomez).
 - [Juliana Moriones](https://github.com/julimoriones).
 - [Karin Duboy](https://github.com/karinduboy).
